@@ -3,8 +3,8 @@ Java Online
 MJC-School
 Java Web Development
 Spring
-Maven
-Gradle
+Brest
+Minsk
 Servlets
 MYSQL
 JDBC
