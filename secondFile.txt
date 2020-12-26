@@ -1,10 +1,10 @@
-Hibernate
+Spring
 EPAM
 Servlets
 Java Core
 Switch
 Minsk
 Belarus
-Repository
+Remote Repository
 Proxy connection
 Happy New Year
