@@ -1,0 +1,24 @@
+From c644d33c9e4e3c889d641ab996a59587b79995f7 Mon Sep 17 00:00:00 2001
+From: Egor Shitikov <shitikov.egor@gmail.com>
+Date: Sat, 26 Dec 2020 12:55:31 +0300
+Subject: [PATCH] edited 2 lines in firstFile.txt
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 6a77f28..9a0feb9 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-first line 
+-Java 
++edited first line 
++Java Online 
+ MJC-School
+ Java Web Development
+ Spring
+-- 
+2.23.0.windows.1
+
