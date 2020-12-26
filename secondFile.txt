@@ -1,4 +1,5 @@
 Spring
+AWS
 EPAM
 Servlets
 Java Core
@@ -6,5 +7,6 @@ Switch
 Minsk
 Belarus
 Remote Repository
+Repo
 Proxy connection
 Happy New Year
